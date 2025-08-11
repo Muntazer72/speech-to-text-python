@@ -12,8 +12,7 @@ A simple and effective Jupyter-based tool that converts speech in audio files (M
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/speech-to-text.git
-cd speech-to-text
+git clone https://github.com/Muntazer72/speech-to-text-python.
 # 2. Create and Activate Virtual Environment
 python -m venv env
 # Activate:
